@@ -1,9 +1,7 @@
-# io_redirections_and_filters
-
-## 0-hello_world
+## 7-file
 **Description:**  
-This script prints "Hello, World" followed by a new line to the standard output.
+This script creates a file named '*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text "Best School" ending with a new line.
 
 **Usage:**  
 ```bash
-./0-hello_world
+./7-file
